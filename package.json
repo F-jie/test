@@ -1,0 +1,26 @@
+{
+  "name": "2048-backend",
+  "version": "1.0.0",
+  "description": "Server side of 2048 game.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shapeng1998/2048-backend.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Jack",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
