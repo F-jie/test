@@ -8,7 +8,7 @@
 
 ```bash
 # clone the project
-git clone https://github.com/shapeng1998/2048-backend
+git clone https://github.com/F-jie/test
 
 # enter the project directory
 cd 2048-backend
