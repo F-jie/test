@@ -1,4 +1,4 @@
-FROM node:19.03.13
+FROM node:12.18.0-buster-slim
 
 WORKDIR /usr/src/app
 
